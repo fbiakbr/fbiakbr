@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fbiakbr
 - 👀 I’m interested in MEVN Stack
-- 🌱 I’m currently learning MongoDB
+- 🌱 I’m currently learning VueJS
 - 📫 fbiakbr@gmail.com
 
 <!---
