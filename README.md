@@ -23,8 +23,8 @@ Currently working as IT Support, but I love learn new thing in programming such 
     - ⚡ Fun fact: ... </br>
 </details>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=bagusfe&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bagusfe&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=fbiakbr&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbiakbr&layout=compact" height=180 />
 </p>
 
 ### Let's connect!
