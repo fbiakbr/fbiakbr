@@ -4,7 +4,7 @@ Currently working as IT Support, but I love learn new thing in programming such 
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/Windows-blue?&logo=windows" />
-    <img src="https://img.shields.io/badge/-Javascript-yellow?&logo=javascript" />
+    <img src="https://img.shields.io/badge/Language-Javascript-yellow?&logo=javascript" />
     <img src="https://img.shields.io/badge/Framework-Vue.js-success?&logo=vue.js" />
     <img src="https://img.shields.io/badge/Dart-informational?&logo=dart" />
     <img src="https://img.shields.io/badge/Flutter-blue?&logo=flutter" />
