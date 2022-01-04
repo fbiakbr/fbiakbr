@@ -19,8 +19,6 @@ Currently working as IT Support, but I love learn new thing in programming such 
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="mailto:fbiakbr@gmail.com">Email me!</a>  </br>
-    - 😄 Pronouns: He/Him </br>
-    - ⚡ Fun fact: ... </br>
 </details>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=fbiakbr&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
@@ -29,7 +27,7 @@ Currently working as IT Support, but I love learn new thing in programming such 
 
 ### Let's connect!
 <p>
-    <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.com-green?" /></a>
+    <a href="https://www.textnice.tech/" target="blank"><img src="https://img.shields.io/badge/Website-https://www.textnice.tech-green?" /></a>
     <a href="https://linkedin.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a>
     <a href="https://tw.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/@bagusfe_-30302f?style=flat&logo=twitter" /></a>
