@@ -27,8 +27,8 @@ Currently working as IT Support, but I love learn new thing in programming such 
 
 ### Let's connect!
 <p>
-    <a href="https://www.textnice.tech/" target="blank"><img src="https://img.shields.io/badge/Website-https://www.textnice.tech-green?" /></a>
-    <a href="https://linkedin.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://www.textnice.tech/" target="blank"><img src="https://img.shields.io/badge/Website-TextNice-green?" /></a>
+    <a href="https://instagram.com/fbiakbr" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=instagram" /></a>
     <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a>
     <a href="https://tw.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/@bagusfe_-30302f?style=flat&logo=twitter" /></a>
     <a href="https://www.paypal.me/fbiakbr" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
