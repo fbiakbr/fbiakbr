@@ -27,5 +27,7 @@ Currently working as IT Support, but I love learn new thing in programming such 
 </details>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=fbiakbr&show_icons=true&theme=buefy" /> </br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbiakbr&layout=compact&langs_count=8" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbiakbr&layout=compact&langs_count=8" height=180 /> </br>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=fbiakbr" />
+    
 </p>
