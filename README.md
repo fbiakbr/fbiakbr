@@ -24,10 +24,3 @@ Currently working as IT Support, but I love learn new thing in programming such 
     <img src="https://github-readme-stats.vercel.app/api?username=fbiakbr&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbiakbr&layout=compact" height=180 />
 </p>
-
-### Let's connect!
-<p>
-    <a href="https://www.textnice.tech/" target="blank"><img src="https://img.shields.io/badge/Website-TextNice-green?" /></a>
-    <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/fbiakbr/fbiakbr?style=social">
-    <a href="https://www.paypal.me/fbiakbr" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a>
-</p>
