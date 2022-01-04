@@ -28,6 +28,8 @@ Currently working as IT Support, but I love learn new thing in programming such 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=fbiakbr&show_icons=true&theme=buefy" /> </br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbiakbr&layout=compact&langs_count=8" height=180 />
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@fbiakbr" height=180 />
+    <a href="https://wakatime.com/badge/user/2d9f700d-309c-47ea-913f-2e5b8da63a09/project/43e322cc-9608-4319-84fe-c0abf480f31b">
+        <img src="https://wakatime.com/badge/user/2d9f700d-309c-47ea-913f-2e5b8da63a09/project/43e322cc-9608-4319-84fe-c0abf480f31b.svg" alt="wakatime">
+    </a>
     
 </p>
