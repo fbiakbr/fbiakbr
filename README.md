@@ -4,13 +4,13 @@ Currently working as IT Support, but I love learn new thing in programming such 
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/Windows-blue?&logo=windows" />
-    <img src="https://img.shields.io/badge/%20-Javascript-yellow?&logo=javascript" />
-    <img src="https://img.shields.io/badge/Framework-Vue.js-success?&logo=vue.js" />
-    <img src="https://img.shields.io/badge/Language-Dart-informational?&logo=dart" />
-    <img src="https://img.shields.io/badge/Framework-Flutter-blue?&logo=flutter" />
-    <img src="https://img.shields.io/badge/Language-PHP-9cf?&logo=php" />
-    <img src="https://img.shields.io/badge/Framework-CodeIgniter-red?&logo=codeigniter" />
-    <img src="https://img.shields.io/badge/Framework-Laravel-red?&logo=laravel" />
+    <img src="https://img.shields.io/badge/JS-Javascript-yellow?&logo=javascript" />
+    <img src="https://img.shields.io/badge/Vue-Vue.js-success?&logo=vue.js" />
+    <img src="https://img.shields.io/badge/Dart-Dart-informational?&logo=dart" />
+    <img src="https://img.shields.io/badge/Flutter-Flutter-blue?&logo=flutter" />
+    <img src="https://img.shields.io/badge/PHP-PHP-9cf?&logo=php" />
+    <img src="https://img.shields.io/badge/CI-CodeIgniter-red?&logo=codeigniter" />
+    <img src="https://img.shields.io/badge/Laravel-Laravel-red?&logo=laravel" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
 <!--     <img src="https://gpvc.arturio.dev/fbiakbr" /> -->
 </p>
