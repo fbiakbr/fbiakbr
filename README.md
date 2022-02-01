@@ -5,12 +5,12 @@ Currently working as IT Support, but I love learn new thing in programming such 
 <p>
     <img src="https://img.shields.io/badge/Windows-blue?&logo=windows" />
     <img src="https://img.shields.io/badge/Javascript-yellow?&logo=javascript&logoColor=white" />
-    <img src="https://img.shields.io/badge/Vue-Vue.js-success?&logo=vue.js" />
-    <img src="https://img.shields.io/badge/Dart-Dart-informational?&logo=dart" />
-    <img src="https://img.shields.io/badge/Flutter-Flutter-blue?&logo=flutter" />
-    <img src="https://img.shields.io/badge/PHP-PHP-9cf?&logo=php" />
-    <img src="https://img.shields.io/badge/CI-CodeIgniter-red?&logo=codeigniter" />
-    <img src="https://img.shields.io/badge/Laravel-Laravel-red?&logo=laravel" />
+    <img src="https://img.shields.io/badge/Vue.js-success?&logo=vue.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/Dart-informational?&logo=dart&logoColor=white" />
+    <img src="https://img.shields.io/badge/Flutter-blue?&logo=flutter&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-9cf?&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/CodeIgniter-red?&logo=codeigniter&logoColor=white" />
+    <img src="https://img.shields.io/badge/Laravel-red?&logo=laravel&logoColor=white" />
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=white" />
 <!--     <img src="https://gpvc.arturio.dev/fbiakbr" /> -->
 </p>
