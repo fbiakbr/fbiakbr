@@ -16,7 +16,7 @@ Currently working as IT Support, but I love learn new thing in programming such 
 </p>
 
 <details>
- <summary><strong>What i am learning/working on these days</strong></summary>
+ <summary>### What i'm learning/working on these days</summary>
     - 🔭 I’m currently working as IT Support </br>
     - 🌱 I’m currently learning Javascript, Dart and PHP </br>
     - 👯 I’m looking to collaborate on Web Development and Mobile Apps. </br>
