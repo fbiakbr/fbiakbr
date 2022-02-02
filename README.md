@@ -15,15 +15,13 @@ Currently working as IT Support, but I love learn new thing in programming such 
 <!--     <img src="https://gpvc.arturio.dev/fbiakbr" /> -->
 </p>
 
-<details>
- <summary>### What i'm learning/working on these days</summary>
+###What i'm learning/working on these days
     - 🔭 I’m currently working as IT Support </br>
     - 🌱 I’m currently learning Javascript, Dart and PHP </br>
     - 👯 I’m looking to collaborate on Web Development and Mobile Apps. </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="mailto:fbiakbr@gmail.com">Email me!</a>  </br>
-</details>
 
 ### Stats:
 <p>
