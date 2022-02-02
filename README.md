@@ -15,7 +15,6 @@ Currently working as IT Support, but I love learn new thing in programming such 
 <!--     <img src="https://gpvc.arturio.dev/fbiakbr" /> -->
 </p>
 
-### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently working as IT Support </br>
@@ -25,6 +24,8 @@ Currently working as IT Support, but I love learn new thing in programming such 
     - 💬 Ask me about anything.</br>
     - 📫 How to reach me: <a href="mailto:fbiakbr@gmail.com">Email me!</a>  </br>
 </details>
+
+### Stats:
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=fbiakbr&show_icons=true&theme=buefy" height=180 />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbiakbr&layout=compact&langs_count=8" height=180 />
