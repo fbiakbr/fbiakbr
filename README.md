@@ -4,6 +4,7 @@ Currently working as IT Support, but I love learn new thing in programming such 
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/Windows-blue?&logo=windows" />
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=white" />
     <img src="https://img.shields.io/badge/Javascript-yellow?&logo=javascript&logoColor=white" />
     <img src="https://img.shields.io/badge/Vue.js-success?&logo=vue.js&logoColor=white" />
     <img src="https://img.shields.io/badge/Dart-informational?&logo=dart&logoColor=white" />
@@ -11,7 +12,6 @@ Currently working as IT Support, but I love learn new thing in programming such 
     <img src="https://img.shields.io/badge/PHP-blue?&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/CodeIgniter-red?&logo=codeigniter&logoColor=white" />
     <img src="https://img.shields.io/badge/Laravel-red?&logo=laravel&logoColor=white" />
-    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=white" />
 <!--     <img src="https://gpvc.arturio.dev/fbiakbr" /> -->
 </p>
 
