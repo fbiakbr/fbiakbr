@@ -28,3 +28,5 @@ Currently working as IT Support, but I love learn new thing in programming such 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fbiakbr&layout=compact&langs_count=8" height=180 />
     
 </p>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=fbiakbr.visitor-badge&left_text=Visitors)
