@@ -29,4 +29,4 @@ Currently working as IT Support, but I love learn new thing in programming such 
     
 </p>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=fbiakbr.visitor-badge&left_text=Visitors)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffbiakbr&count_bg=%23673DC8&title_bg=%238A8A8A&icon=sinaweibo.svg&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
