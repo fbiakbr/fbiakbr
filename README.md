@@ -16,7 +16,7 @@ Currently working as IT Support, but I love learn new thing in programming such 
 
 ### What i'm learning/working on these days
 - 🔭 I’m currently working as IT Support
-- 🌱 I’m currently learning Vue.js and CodeIgniter 4
+- 🌱 I’m currently learning Vue.js and CodeIgniter
 - 👯 I’m looking to collaborate on Web Development and Mobile Apps
 - 🤔 I’m looking for help with master of programming. Hehe
 - 💬 Ask me about anything
