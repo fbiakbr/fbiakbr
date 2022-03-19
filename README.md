@@ -11,12 +11,11 @@ Currently working as IT Support, but I love learn new thing in programming such 
     <img src="https://img.shields.io/badge/PHP-blue?&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/CodeIgniter-red?&logo=codeigniter&logoColor=white" />
     <img src="https://img.shields.io/badge/Laravel-red?&logo=laravel&logoColor=white" />
-<!--     <img src="https://gpvc.arturio.dev/fbiakbr" /> -->
 </p>
 
 ### What i'm learning/working on these days
 - 🔭 I’m currently working as IT Support
-- 🌱 I’m currently learning Vue.js and CodeIgniter
+- 🌱 I’m currently learning Vue.js, CodeIgniter, and Flutter
 - 👯 I’m looking to collaborate on Web Development and Mobile Apps
 - 🤔 I’m looking for help with master of programming. Hehe
 - 💬 Ask me about anything
