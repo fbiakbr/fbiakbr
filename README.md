@@ -10,7 +10,6 @@ Currently working as IT Support, but I love learn new thing in programming such 
     <img src="https://img.shields.io/badge/Flutter-blue?&logo=flutter&logoColor=white" />
     <img src="https://img.shields.io/badge/PHP-blue?&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/CodeIgniter-red?&logo=codeigniter&logoColor=white" />
-    <img src="https://img.shields.io/badge/Laravel-red?&logo=laravel&logoColor=white" />
 </p>
 
 ### What i'm learning/working on these days
