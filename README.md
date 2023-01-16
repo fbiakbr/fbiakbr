@@ -21,6 +21,6 @@ Currently working as IT Support, but I love learn new thing in programming such 
 - 📫 How to reach me: <a href="mailto:fbiakbr@gmail.com">Email me!</a>
 
 ### Stats:
-[![bookmark.style](https://svg.bookmark.style/api?url=https://bookmark.style/&mode=light&style=horizontal)](https://bookmark.style)
+[![Bookmark Style Card](https://svg.bookmark.style/api?url=https://fbiakbr.xyz)](https://fbiakbr.xyz)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffbiakbr&count_bg=%23673DC8&title_bg=%238A8A8A&icon=sinaweibo.svg&icon_color=%23E7E7E7&title=Visitor&edge_flat=false)](https://hits.seeyoufarm.com)
